@@ -20,7 +20,7 @@
         'views/order_line_image.xml',
         'views/sale_order_line_tree_view.xml'
     ],
-
+    'live_test_url': 'https://www.youtube.com/watch?v=f7d2lQbjpUc',
     'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
